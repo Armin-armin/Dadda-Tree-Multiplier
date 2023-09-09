@@ -5,5 +5,5 @@ The top module is dadda_mul.v. Further explanations are in Report.pdf.
 
 Contributers:
 
-Armin Asgharifard
+Armin Asgharifard,
 Emrecan Yiğit
